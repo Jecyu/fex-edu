@@ -63,7 +63,7 @@ FEX 学院
 
 ## CSS 及 UI
 
-- [ ] [Sass](http://sass-lang.com/)
+- [x] [Sass](http://sass-lang.com/)
 - [ ] [Compass](http://compass-style.org/)
 - [ ] [Bourbon](http://bourbon.io/)
 - [ ] [Bootswatch](http://bootswatch.com/)
